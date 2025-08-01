@@ -14,11 +14,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-   <h1>Hi there, I'm <a href="https://github.com/ashok-gupta">Ashok</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there, I'm <a href="https://github.com/ashok-59">Ashok</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 <p align='center'>
-   <a href="https://www.linkedin.com/in/ashokgupta/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/maturi-ashok-gupta/"><img height="30" src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/linkedin.png?raw=true"></a>&nbsp;&nbsp;
    <a href="mailto:maturiashokgupta@gmail.com"><img height="30" src="https://img.icons8.com/fluent/30/gmail-new.png"></a>&nbsp;&nbsp;
 </p>
 
